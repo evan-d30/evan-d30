@@ -1,4 +1,4 @@
-# Hi, I'm Evan 
+# Evan Duan
 
 I study computer engineering at University of Michigan
 
