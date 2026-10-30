@@ -2,4 +2,4 @@
 
 I study computer engineering at University of Michigan
 
-email: evanduan@umich.edu
+Email: evanduan at umich dot edu
