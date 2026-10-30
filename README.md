@@ -1,5 +1,5 @@
 # Evan Duan
 
-I study computer engineering at University of Michigan
+I am currently majoring in computer engineering at the University of Michigan
 
 Email: evanduan at umich dot edu
